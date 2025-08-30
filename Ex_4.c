@@ -18,4 +18,5 @@ int main(void)
     printf("%f\n", ftwo);
     printf("%f\n", ftree);
     printf("%f\n", ffour);
+    return 0;
 }
